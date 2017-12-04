@@ -1,4 +1,4 @@
-package 实例;
+package 实例.基础知识;
 
 public class 全局and局部变量 {
     static String s1 = "你好";

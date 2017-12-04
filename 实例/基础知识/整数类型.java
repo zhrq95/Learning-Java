@@ -1,4 +1,4 @@
-package 实例;
+package 实例.基础知识;
 
 public class 整数类型 {
     public static void main(String[] args) {

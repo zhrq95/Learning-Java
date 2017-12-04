@@ -1,4 +1,4 @@
-package 实例;
+package 实例.基础知识;
 
 public class 布尔类型 {
     public static void main(String[] args) {

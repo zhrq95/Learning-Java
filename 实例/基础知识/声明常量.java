@@ -1,4 +1,4 @@
-package 实例;
+package 实例.基础知识;
 
 public class 声明常量 {
     static final double PI = 3.14;
